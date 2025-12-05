@@ -213,7 +213,9 @@ La Théorie Germinienne propose une vision unifiée où :
 
 ## 📄 Licence
 
-*[À définir selon vos préférences]*
+Ce projet est sous licence [MIT](LICENSE).
+
+Copyright (c) 2025 michaelgermini
 
 ---
 
