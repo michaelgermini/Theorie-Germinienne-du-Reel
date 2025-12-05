@@ -1,0 +1,41 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+*~
+
+# Fichiers d'éditeur
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+*_backup.*
+
+# Fichiers de configuration locale (si nécessaire)
+.env
+.env.local
+
+# Fichiers de cache
+.cache/
+*.cache
+
+# Fichiers de build (si ajoutés plus tard)
+dist/
+build/
+*.pyc
+__pycache__/
+
+# Fichiers de documentation générés (si ajoutés plus tard)
+docs/_build/
+
