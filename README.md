@@ -221,13 +221,13 @@ Copyright (c) 2025 michaelgermini
 
 ## 👤 Auteur
 
-*[À compléter]*
+**Germini Michael**
 
 ---
 
 ## 📅 Date
 
-**Projet terminé** — Corpus complet et prêt
+**2025** — Projet terminé — Corpus complet et prêt
 
 ---
 
